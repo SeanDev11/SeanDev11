@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SeanDev11
 - 👀 I’m interested in iOS development, data science and any other magic that can be conjured through code
-- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on anything to gain experience
 - 📫 How to reach me sean.devine24@gmail.com
 
